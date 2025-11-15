@@ -1,4 +1,4 @@
-# Project 2: Climate Change – Temperatures and Precipitation
+# Climate Change – Temperatures and Precipitation
 
 This repository contains my work for **Project 2: Climate Change – Temperatures and Precipitation** (Data 8).  
 The project uses historical temperature and precipitation data to explore climate trends, build confidence intervals, and run hypothesis tests in Python.
